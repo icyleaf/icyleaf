@@ -1421,7 +1421,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 262 edited files from 106 commits over last 14 days
+            estimation from 262 edited files from 107 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1532,8 +1532,8 @@
               09
             </div>
                     <div class="entry">
-              <span class="value">11</span>
-              <div class="bar" style="height: 14.864864864864865px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">12</span>
+              <div class="bar" style="height: 16.216216216216218px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               10
             </div>
                     <div class="entry">
@@ -1628,8 +1628,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">18</span>
-                <div class="bar" style="height: 36px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">19</span>
+                <div class="bar" style="height: 38px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1667,7 +1667,7 @@
             </div>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Thu, 10 Jun 2021 10:27:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 10 Jun 2021 10:33:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
