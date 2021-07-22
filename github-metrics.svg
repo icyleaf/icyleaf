@@ -1421,16 +1421,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 1400 edited files from 162 commits over last 14 days
+            estimation from 1245 edited files from 162 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.57275704026983" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="308.57275704026983" y="0" width="108.62904475709931" height="8" fill="#959DA5"/>
-                    <rect mask="url(#languages-bar)" x="417.2018017973691" y="0" width="42.798198202630864" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.2874284582425" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="303.2874284582425" y="0" width="111.47649677345372" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="414.76392523169625" y="0" width="45.236074768303745" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1440,8 +1440,8 @@
                       Ruby
                     </div>
                             <small>
-                                <div>272 kB</div>
-                                <div>67.08%</div>
+                                <div>252 kB</div>
+                                <div>65.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1450,8 +1450,8 @@
                       Shell
                     </div>
                             <small>
-                                <div>37.8 kB</div>
-                                <div>9.3%</div>
+                                <div>37.7 kB</div>
+                                <div>9.83%</div>
                             </small>
                         </div>
                     </section>
@@ -1462,8 +1462,8 @@
                       Slim
                     </div>
                             <small>
-                                <div>95.9 kB</div>
-                                <div>23.62%</div>
+                                <div>92.9 kB</div>
+                                <div>24.23%</div>
                             </small>
                         </div>
                     </section>
@@ -1505,7 +1505,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Thu, 22 Jul 2021 10:22:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 22 Jul 2021 10:25:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
