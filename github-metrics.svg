@@ -1475,11 +1475,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.3852242744063" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="177.3852242744063" y="0" width="150.9868073878628" height="8" fill="#959DA5"/>
-                    <rect mask="url(#languages-bar)" x="328.3720316622691" y="0" width="72.7018469656992" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="401.0738786279683" y="0" width="40.08311345646438" height="8" fill="#000100"/>
-                    <rect mask="url(#languages-bar)" x="441.1569920844327" y="0" width="18.84300791556728" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="166.4393142291267" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="166.4393142291267" y="0" width="141.66986445503497" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="308.1091786841617" y="0" width="96.60085411895773" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="404.7100328031194" y="0" width="37.609704771925486" height="8" fill="#000100"/>
+                    <rect mask="url(#languages-bar)" x="442.3197375750449" y="0" width="17.680262424955128" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1490,7 +1490,7 @@
                     </div>
                             <small>
                                 <div>5.85 kB</div>
-                                <div>38.56%</div>
+                                <div>36.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1499,8 +1499,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>2.40 kB</div>
-                                <div>15.8%</div>
+                                <div>3.39 kB</div>
+                                <div>21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1510,7 +1510,7 @@
                     </div>
                             <small>
                                 <div>621 bytes</div>
-                                <div>4.1%</div>
+                                <div>3.84%</div>
                             </small>
                         </div>
                     </section>
@@ -1522,7 +1522,7 @@
                     </div>
                             <small>
                                 <div>4.98 kB</div>
-                                <div>32.82%</div>
+                                <div>30.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1532,7 +1532,7 @@
                     </div>
                             <small>
                                 <div>1.32 kB</div>
-                                <div>8.71%</div>
+                                <div>8.18%</div>
                             </small>
                         </div>
                     </section>
@@ -1754,32 +1754,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Ruby</span>
-                            <div class="bar" style="width: 28.72941754730892%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">36%</span>
+                            <div class="bar" style="width: 30.78949101204978%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">38%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Slim</span>
-                            <div class="bar" style="width: 24.4580978127304%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">31%</span>
+                            <div class="bar" style="width: 26.211891749522618%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">33%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 16.71172278201032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">21%</span>
+                            <div class="bar" style="width: 12.17356950023046%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">15%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Crystal</span>
-                            <div class="bar" style="width: 6.492995822069304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">8%</span>
+                            <div class="bar" style="width: 6.9585829986172385%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">9%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 3.052347014008356%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.271218805557385%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.555419021872696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.5952459340225192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
