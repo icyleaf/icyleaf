@@ -1468,18 +1468,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 103 edited files from 104 commits over last 14 days
+            estimation from 103 edited files from 106 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.24897169126544" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="147.24897169126544" y="0" width="125.99080571013792" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="273.2397774014034" y="0" width="119.83224453584965" height="8" fill="#959DA5"/>
-                    <rect mask="url(#languages-bar)" x="393.072021937253" y="0" width="49.49108799096702" height="8" fill="#000100"/>
-                    <rect mask="url(#languages-bar)" x="442.56310992822006" y="0" width="17.43689007177998" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.48687292996203" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="147.48687292996203" y="0" width="126.15720171257774" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="273.6440746425398" y="0" width="119.80289199450684" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="393.4469666370466" y="0" width="49.08797156474675" height="8" fill="#000100"/>
+                    <rect mask="url(#languages-bar)" x="442.5349382017934" y="0" width="17.46506179820664" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1490,7 +1490,7 @@
                     </div>
                             <small>
                                 <div>3.97 kB</div>
-                                <div>32.01%</div>
+                                <div>32.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1499,8 +1499,8 @@
                       Slim
                     </div>
                             <small>
-                                <div>3.23 kB</div>
-                                <div>26.05%</div>
+                                <div>3.22 kB</div>
+                                <div>26.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1510,7 +1510,7 @@
                     </div>
                             <small>
                                 <div>470 bytes</div>
-                                <div>3.79%</div>
+                                <div>3.8%</div>
                             </small>
                         </div>
                     </section>
@@ -1522,7 +1522,7 @@
                     </div>
                             <small>
                                 <div>3.40 kB</div>
-                                <div>27.39%</div>
+                                <div>27.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1531,8 +1531,8 @@
                       Crystal
                     </div>
                             <small>
-                                <div>1.33 kB</div>
-                                <div>10.76%</div>
+                                <div>1.32 kB</div>
+                                <div>10.67%</div>
                             </small>
                         </div>
                     </section>
@@ -1571,7 +1571,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 104 commits)</small>
+        <small class="h-details">(computed from last 106 commits)</small>
       
     </h2>
                 <div class="row">
@@ -1632,8 +1632,8 @@
               08
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 3.968253968253968px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">7</span>
+              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               09
             </div>
                     <div class="entry">
@@ -1713,8 +1713,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">11</span>
-                <div class="bar" style="height: 18.96551724137931px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">13</span>
+                <div class="bar" style="height: 22.413793103448278px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1792,7 +1792,7 @@
             </div>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 08/08/2021, 09:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 08/08/2021, 10:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
