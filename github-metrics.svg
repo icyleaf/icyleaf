@@ -1528,16 +1528,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 101 edited files from 115 commits over last 14 days
+            estimation from 100 edited files from 115 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.50410523335586" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="229.50410523335586" y="0" width="213.9460330596511" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="443.45013829300694" y="0" width="16.549861706993052" height="8" fill="#2b2b2b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.95483012198048" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="229.95483012198048" y="0" width="213.46280576952452" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="443.417635891505" y="0" width="16.582364108494993" height="8" fill="#2b2b2b"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1548,7 +1548,7 @@
                     </div>
                             <small>
                                 <div>22.9 kB</div>
-                                <div>49.89%</div>
+                                <div>49.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1569,8 +1569,8 @@
                       Ruby
                     </div>
                             <small>
-                                <div>21.3 kB</div>
-                                <div>46.51%</div>
+                                <div>21.2 kB</div>
+                                <div>46.4%</div>
                             </small>
                         </div>
                     </section>
@@ -1792,22 +1792,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 39.66411288577241%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 39.66582979828586%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">50%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Ruby</span>
-                            <div class="bar" style="width: 36.987404233216466%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 36.98554237728335%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">46%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Slim</span>
-                            <div class="bar" style="width: 2.860234601566896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.860358410527227%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.48824827944422805%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.48826941390355816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -1815,7 +1815,7 @@
             </div>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21/08/2021, 09:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 21/08/2021, 10:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
