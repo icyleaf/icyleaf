@@ -1528,29 +1528,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 99 edited files from 119 commits over last 14 days
+            estimation from 66 edited files from 119 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.74305402182077" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="232.74305402182077" y="0" width="227.25694597817926" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.3554262799695" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="274.3554262799695" y="0" width="185.6445737200305" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Shell
-                    </div>
-                            <small>
-                                <div>22.9 kB</div>
-                                <div>50.6%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -1558,8 +1546,20 @@
                       Ruby
                     </div>
                             <small>
-                                <div>22.3 kB</div>
-                                <div>49.4%</div>
+                                <div>21.1 kB</div>
+                                <div>59.64%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Shell
+                    </div>
+                            <small>
+                                <div>14.2 kB</div>
+                                <div>40.36%</div>
                             </small>
                         </div>
                     </section>
@@ -1779,32 +1779,12 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">Shell</span>
-                            <div class="bar" style="width: 40.185059311070674%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">50%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Ruby</span>
-                            <div class="bar" style="width: 39.237836297059665%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">49%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.49466090731685924%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Slim</span>
-                            <div class="bar" style="width: 0.08244348455280986%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">0%</span>
-                        </div>
                     </div>
                 </section>
             </div>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25/08/2021, 10:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 25/08/2021, 10:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
