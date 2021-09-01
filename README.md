@@ -4,11 +4,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-@icyleaf-1da1f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/icyleaf)](https://twitter.com/icyleaf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,009 Contributions in the Year 2021
+> 🏆 1,019 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -21,20 +21,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    446 commits    ██████░░░░░░░░░░░░░░░░░░░   26.13% 
-🌆 Daytime    785 commits    ███████████░░░░░░░░░░░░░░   45.99% 
-🌃 Evening    462 commits    ██████░░░░░░░░░░░░░░░░░░░   27.07% 
+🌞 Morning    450 commits    ██████░░░░░░░░░░░░░░░░░░░   26.36% 
+🌆 Daytime    791 commits    ███████████░░░░░░░░░░░░░░   46.34% 
+🌃 Evening    452 commits    ██████░░░░░░░░░░░░░░░░░░░   26.48% 
 🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       312 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
-Tuesday      345 commits    █████░░░░░░░░░░░░░░░░░░░░   20.21% 
-Wednesday    251 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
+Monday       311 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.22% 
+Tuesday      350 commits    █████░░░░░░░░░░░░░░░░░░░░   20.5% 
+Wednesday    250 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
 Thursday     321 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.8% 
-Friday       346 commits    █████░░░░░░░░░░░░░░░░░░░░   20.27% 
+Friday       343 commits    █████░░░░░░░░░░░░░░░░░░░░   20.09% 
 Saturday     93 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
 Sunday       39 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
 
@@ -74,7 +74,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/icyleaf/icyleaf/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2021
+ Last Updated on 01/09/2021
 <!--END_SECTION:waka-->
 
 ![Metrics](https://github.com/icyleaf/icyleaf/blob/main/github-metrics.svg)
