@@ -4,11 +4,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-@icyleaf-1da1f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/icyleaf)](https://twitter.com/icyleaf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,031 Contributions in the Year 2021
+> 🏆 1,034 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -21,20 +21,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    449 commits    ██████░░░░░░░░░░░░░░░░░░░   26.3% 
-🌆 Daytime    798 commits    ███████████░░░░░░░░░░░░░░   46.75% 
-🌃 Evening    446 commits    ██████░░░░░░░░░░░░░░░░░░░   26.13% 
+🌞 Morning    447 commits    ██████░░░░░░░░░░░░░░░░░░░   26.19% 
+🌆 Daytime    801 commits    ███████████░░░░░░░░░░░░░░   46.92% 
+🌃 Evening    445 commits    ██████░░░░░░░░░░░░░░░░░░░   26.07% 
 🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       309 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.1% 
+Monday       307 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
 Tuesday      349 commits    █████░░░░░░░░░░░░░░░░░░░░   20.45% 
-Wednesday    256 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Wednesday    255 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
 Thursday     321 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.8% 
-Friday       343 commits    █████░░░░░░░░░░░░░░░░░░░░   20.09% 
+Friday       346 commits    █████░░░░░░░░░░░░░░░░░░░░   20.27% 
 Saturday     90 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
 Sunday       39 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
 
@@ -74,7 +74,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/icyleaf/icyleaf/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 04/09/2021
 <!--END_SECTION:waka-->
 
 ![Metrics](https://github.com/icyleaf/icyleaf/blob/main/github-metrics.svg)
