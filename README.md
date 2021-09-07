@@ -4,11 +4,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-@icyleaf-1da1f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/icyleaf)](https://twitter.com/icyleaf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,034 Contributions in the Year 2021
+> 🏆 1,035 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -74,7 +74,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/icyleaf/icyleaf/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2021
+ Last Updated on 07/09/2021
 <!--END_SECTION:waka-->
 
 ![Metrics](https://github.com/icyleaf/icyleaf/blob/main/github-metrics.svg)
