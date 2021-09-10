@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@icyleaf-1da1f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/icyleaf)](https://twitter.com/icyleaf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My Github Data** 
 
@@ -47,17 +47,17 @@ Sunday       39 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   26.76% 
-Ruby                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.3% 
-Go                       18 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.1% 
-XML                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
+Ruby                     2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.46% 
+Slim                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71% 
+YAML                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+Go                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.78%
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 35 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        █████████████████████████   100.0%
+Mac                      6 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +78,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/icyleaf/icyleaf/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/09/2021
+ Last Updated on 10/09/2021
 <!--END_SECTION:waka-->
 
 ![Metrics](https://github.com/icyleaf/icyleaf/blob/main/github-metrics.svg)
