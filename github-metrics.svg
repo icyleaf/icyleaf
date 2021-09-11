@@ -1528,16 +1528,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 292 edited files from 82 commits over last 14 days
+            estimation from 291 edited files from 82 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.67240031274434" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="280.67240031274434" y="0" width="161.72791243158719" height="8" fill="#2b2b2b"/>
-                    <rect mask="url(#languages-bar)" x="442.40031274433153" y="0" width="17.599687255668492" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.6693522342903" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="280.6693522342903" y="0" width="161.73066136352048" height="8" fill="#2b2b2b"/>
+                    <rect mask="url(#languages-bar)" x="442.40001359781076" y="0" width="17.59998640218925" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1547,7 +1547,7 @@
                       Ruby
                     </div>
                             <small>
-                                <div>71.8 kB</div>
+                                <div>71.7 kB</div>
                                 <div>61.02%</div>
                             </small>
                         </div>
@@ -1835,7 +1835,7 @@
             </div>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11/09/2021, 09:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 11/09/2021, 10:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
