@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1020" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1031" class="">
     <defs>
         <style/>
     </defs>
@@ -1606,8 +1606,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.7873242379914" height="8" fill="#2b2b2b"/>
-                    <rect mask="url(#languages-bar)" x="351.7873242379914" y="0" width="108.21267576200853" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.00144769108044" height="8" fill="#2b2b2b"/>
+                    <rect mask="url(#languages-bar)" x="353.00144769108044" y="0" width="106.99855230891954" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1617,8 +1617,8 @@
                       Slim
                     </div>
                             <small>
-                                <div>25.6 kB</div>
-                                <div>76.48%</div>
+                                <div>25.9 kB</div>
+                                <div>76.74%</div>
                             </small>
                         </div>
                     </section>
@@ -1629,8 +1629,8 @@
                       Ruby
                     </div>
                             <small>
-                                <div>7.88 kB</div>
-                                <div>23.52%</div>
+                                <div>7.87 kB</div>
+                                <div>23.26%</div>
                             </small>
                         </div>
                     </section>
@@ -1851,16 +1851,36 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
+                            <span class="name">Slim</span>
+                            <div class="bar" style="width: 59.76530142659917%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">75%</span>
+                        </div>
+                        <div class="entry">
                             <span class="name">Ruby</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
+                            <div class="bar" style="width: 18.131615278416934%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">23%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 1.0469397146801658%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">SCSS</span>
+                            <div class="bar" style="width: 0.7915324436263231%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 0.2646111366774045%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
                         </div>
                     </div>
                 </section>
             </div>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14/10/2021, 10:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 14/10/2021, 10:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
