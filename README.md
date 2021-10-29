@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@icyleaf-1da1f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/icyleaf)](https://twitter.com/icyleaf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,17 +47,17 @@ Sunday       39 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   34.24% 
-Ruby                     1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   29.16% 
-Crystal                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.69% 
-Slim                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
-Docker                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.43%
+Ruby                     4 hrs 4 mins        ████████████████░░░░░░░░░   63.54% 
+Crystal                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
+Slim                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.35%
 
 🔥 Editors: 
-VS Code                  4 hrs 29 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 24 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.0%
+Mac                      6 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +78,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/icyleaf/icyleaf/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2021
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
 ![Metrics](https://github.com/icyleaf/icyleaf/blob/main/github-metrics.svg)
