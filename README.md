@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@icyleaf-1da1f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/icyleaf)](https://twitter.com/icyleaf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,7 +78,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/icyleaf/icyleaf/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2021
+ Last Updated on 01/11/2021
 <!--END_SECTION:waka-->
 
 ![Metrics](https://github.com/icyleaf/icyleaf/blob/main/github-metrics.svg)
