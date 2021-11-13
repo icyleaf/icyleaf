@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@icyleaf-1da1f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/icyleaf)](https://twitter.com/icyleaf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,17 +47,17 @@ Sunday       38 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Ruby                     4 hrs 22 mins       █████████████░░░░░░░░░░░░   53.43% 
-YAML                     1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.16% 
-Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
-Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
+Ruby                     2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   42.07% 
+YAML                     1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   22.07% 
+Markdown                 1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
+Other                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
+Docker                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02%
 
 🔥 Editors: 
-VS Code                  8 hrs 10 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 18 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 10 mins       █████████████████████████   100.0%
+Mac                      6 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +78,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/icyleaf/icyleaf/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/11/2021
+ Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 
 ![Metrics](https://github.com/icyleaf/icyleaf/blob/main/github-metrics.svg)
