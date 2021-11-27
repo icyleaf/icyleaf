@@ -47,7 +47,7 @@ Sunday       38 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Ruby                     6 hrs 48 mins       ████████████░░░░░░░░░░░░░   50.6% 
+Ruby                     6 hrs 48 mins       ████████████░░░░░░░░░░░░░   50.59% 
 Slim                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
 JavaScript               1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
 JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
@@ -78,7 +78,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/icyleaf/icyleaf/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/11/2021
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->
 
 ![Metrics](https://github.com/icyleaf/icyleaf/blob/main/github-metrics.svg)
