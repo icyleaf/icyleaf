@@ -4,8 +4,6 @@
 
 Current my side project is [Zealot](https://github.com/tryzealot/zealot), a self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps.
 
-adores reinventing the wheel!
-
 ### Professionally I use
 
 <div align="left">
