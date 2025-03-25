@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm icyleaf
 
-🏢 I'm a freelancer with Rails on Ruby as a full-stack software engineer, also Mobile application engineer.
+🏢 I'm a freelancer with Rails on Ruby, Node.js as a full-stack software engineer, also Mobile application engineer.
 
-Current my side project is [Zealot](https://github.com/tryzealot/zealot), a self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps.
+Current my side project is [Zealot](https://github.com/tryzealot/zealot), a self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps. 
+
+Through working on Zealot, I developed an interest in DevOps, which led me to build a Homelab and start learning SRE-related topics.
 
 ### Professionally I use
 
@@ -12,6 +14,8 @@ Current my side project is [Zealot](https://github.com/tryzealot/zealot), a self
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="40" width="52" alt="crystal logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="40" width="52" alt="ruby on rails logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
@@ -40,9 +44,7 @@ Current my side project is [Zealot](https://github.com/tryzealot/zealot), a self
 ### Recreationally I use
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" width="52" alt="rust logo" />
