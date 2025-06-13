@@ -54,7 +54,7 @@ Through working on Zealot, I developed an interest in DevOps, which led me to bu
 ### Become to a sponsor
 
 <div align="left">
-  <img src="https://static.afdiancdn.com/static/img/logo/logo.png" height="46" width="46" alt="爱发电" title="使用爱发电捐赠" />
+  <a href="https://afdian.com/a/icyleaf"><img src="https://static.afdiancdn.com/static/img/logo/logo.png" height="46" width="46" alt="爱发电" title="使用爱发电捐赠" /></a>
 </div>
 
 ### Statistics
