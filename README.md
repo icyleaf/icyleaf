@@ -51,6 +51,12 @@ Through working on Zealot, I developed an interest in DevOps, which led me to bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="40" width="52" alt="single board logo"  />
 </div>
 
+### Become to a sponsor
+
+<div align="left">
+  <img src="https://static.afdiancdn.com/static/img/logo/logo.png" height="50" width="50" alt="爱发电" title="使用爱发电捐赠" />
+</div>
+
 ### Statistics
 
 <div align="left">
