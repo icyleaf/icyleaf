@@ -55,6 +55,7 @@ Through working on Zealot, I developed an interest in DevOps, which led me to bu
 
 <div align="left">
   <a href="https://afdian.com/a/icyleaf"><img src="https://static.afdiancdn.com/static/img/logo/logo.png" height="46" width="46" alt="爱发电" title="使用爱发电赞助" /></a>
+  <a href="https://afdian.com/a/icyleaf"><img src="https://studio.buymeacoffee.com/assets/img/bmc-meta-new/new/apple-icon-120x120.png" height="46" width="46" alt="Buy Me A Coffee" title="Buy Me A Coffee" /></a>
 </div>
 
 ### Statistics
