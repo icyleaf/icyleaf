@@ -70,8 +70,8 @@ Through working on Zealot, I developed an interest in DevOps, which led me to bu
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=icyleaf" height="150" alt="stats graph"  /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=icyleaf" height="150" alt="languages graph"  /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=icyleaf" height="150" alt="stats graph"  /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=icyleaf" height="150" alt="languages graph"  /></td>
   </tr>
 </table>
 
