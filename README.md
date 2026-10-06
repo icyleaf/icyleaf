@@ -61,7 +61,7 @@ Through working on Zealot, I developed an interest in DevOps, which led me to bu
 
 <table>
   <tr>
-    <td><a href="https://afdian.com/a/icyleaf"><img src="https://static.afdiancdn.com/static/img/logo/logo.png" height="46" width="46" alt="爱发电" title="使用爱发电赞助" /></a></td>
+    <td><a href="https://afdian.com/a/icyleaf"><img src="https://afdian.com/static/img/icons/android-chrome-192x192.png" height="46" width="46" alt="爱发电" title="使用爱发电赞助" /></a></td>
     <td><a href="https://buymeacoffee.com/icyleaf"><img src="https://studio.buymeacoffee.com/assets/img/bmc-meta-new/new/apple-icon-120x120.png" height="46" width="46" alt="Buy Me A Coffee" title="Buy Me A Coffee" /></a></td>
   </tr>
 </table>
